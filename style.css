@@ -1,0 +1,35 @@
+h1{
+    color:white;
+}
+/**{
+    border: solid;
+}*/
+
+.header{
+    background-color: lightblue;
+    display: flex; 
+justify-content: space-between;
+
+}
+.menu{
+    background-color: salmon;
+    display: flex;
+    justify-content: space-between;
+}
+.city{
+    background-color: turquoise;
+    display: flex;
+    justify-content: space-between;
+}
+.mycity{
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+}
+.mynewcity{
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-between;
+}
+
+
